@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\StudentViolationRecordManagementSystem\SVRMS.BL\bin\Debug\net5.0\SVRMS.BL.deps.json
+C:\Users\admin\source\repos\StudentViolationRecordManagementSystem\SVRMS.BL\bin\Debug\net5.0\SVRMS.BL.dll
+C:\Users\admin\source\repos\StudentViolationRecordManagementSystem\SVRMS.BL\bin\Debug\net5.0\ref\SVRMS.BL.dll
+C:\Users\admin\source\repos\StudentViolationRecordManagementSystem\SVRMS.BL\bin\Debug\net5.0\SVRMS.BL.pdb
+C:\Users\admin\source\repos\StudentViolationRecordManagementSystem\SVRMS.BL\obj\Debug\net5.0\SVRMS.BL.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\StudentViolationRecordManagementSystem\SVRMS.BL\obj\Debug\net5.0\SVRMS.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\StudentViolationRecordManagementSystem\SVRMS.BL\obj\Debug\net5.0\SVRMS.BL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\StudentViolationRecordManagementSystem\SVRMS.BL\obj\Debug\net5.0\SVRMS.BL.AssemblyInfo.cs
+C:\Users\admin\source\repos\StudentViolationRecordManagementSystem\SVRMS.BL\obj\Debug\net5.0\SVRMS.BL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\StudentViolationRecordManagementSystem\SVRMS.BL\obj\Debug\net5.0\SVRMS.BL.dll
+C:\Users\admin\source\repos\StudentViolationRecordManagementSystem\SVRMS.BL\obj\Debug\net5.0\ref\SVRMS.BL.dll
+C:\Users\admin\source\repos\StudentViolationRecordManagementSystem\SVRMS.BL\obj\Debug\net5.0\SVRMS.BL.pdb
